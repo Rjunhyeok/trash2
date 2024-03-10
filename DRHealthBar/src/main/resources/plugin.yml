@@ -1,0 +1,6 @@
+name: DRHealthBar
+version: '${project.version}'
+main: test.drhealthbar.DRHealthBar
+api-version: '1.19'
+commands:
+  체력관리:
